@@ -1,0 +1,45 @@
+.banner {
+  position: relative;
+}
+
+.banner .name{
+  position: absolute;
+  top: 65%;
+  left: 35%;
+  color: lightblue;
+}
+
+.banner h2 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.banner img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+nav {
+  background-color: #F4F4F4;
+}
+
+nav ul {
+  white-space: nowrap;
+}
+
+nav li {
+  padding: 20px;
+  width: 25%;
+  display: inline-block;
+  font-size: 24px;
+}
+
+nav li a {
+  text-decoration: none;
+}
+
+.intro {
+  font-size: 22px;
+}
